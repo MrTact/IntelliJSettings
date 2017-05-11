@@ -2,4 +2,8 @@
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
   </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+  </codeStyleSettings>
 </code_scheme>
