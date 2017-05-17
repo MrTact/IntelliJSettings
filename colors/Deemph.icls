@@ -4,8 +4,9 @@
     <property name="created">2017-04-28T10:14:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-04-28T10:41:11</property>
+    <property name="modified">2017-05-17T14:45:42</property>
     <property name="originalScheme">Default copy</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -40,6 +41,13 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="fff700" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value />
     </option>
@@ -63,6 +71,13 @@
       <value>
         <option name="FOREGROUND" value="660e7a" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="fff875" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
       </value>
     </option>
   </attributes>
