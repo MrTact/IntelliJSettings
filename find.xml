@@ -30,8 +30,10 @@
       <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
+      <mask>*.cs==</mask>
+      <mask>*.cs=</mask>
       <mask>*.cs</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
