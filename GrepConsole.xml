@@ -4,8 +4,80 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*experiments.*" />
+                      <option name="id" value="92958f1c-10be-428a-8659-2fc460926e4e" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-51230" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="54ec50c6-a8bd-4aae-8f63-939775149ed9" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*datadog.*" />
+                      <option name="id" value="26ebd8c4-b008-4dc8-ad5e-bdb37387785a" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2bdcee57-1f35-41a6-902d-07e37bd8107a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*RetrofitClientProvider.*" />
+                      <option name="id" value="7a8b7392-2db4-4ce5-9128-10fcd850feff" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2bdcee57-1f35-41a6-902d-07e37bd8107a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*HashingHelper.*" />
+                      <option name="id" value="42e4aa8a-a76f-4485-b31c-f73cb5bc7c15" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2bdcee57-1f35-41a6-902d-07e37bd8107a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="new" />
+              </GrepExpressionGroup>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
