@@ -74,11 +74,27 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*LogDetailMapper.*" />
+                      <option name="id" value="e5330596-0383-4378-b6b2-51188a7eda2d" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="b57ec969-f169-4b4d-a723-bc412061efd0" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="new" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
