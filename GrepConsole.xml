@@ -11,6 +11,66 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value=".*\.LogDetailMapper.*" />
+                      <option name="id" value="e5330596-0383-4378-b6b2-51188a7eda2d" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="b57ec969-f169-4b4d-a723-bc412061efd0" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*\.BatchScheduler.*" />
+                      <option name="id" value="fb3ea434-bc54-499c-9927-3efc121b535a" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*\.BatchWorker.*" />
+                      <option name="id" value="f41f6b00-9f67-4e82-a129-b02f4c453c95" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*\.BatchApiRequestJob.*" />
+                      <option name="id" value="b0cc5073-4611-4886-bbb2-3fd884a850d4" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*experiments.*" />
                       <option name="id" value="92958f1c-10be-428a-8659-2fc460926e4e" />
@@ -71,21 +131,6 @@
                             </GrepColor>
                           </option>
                           <option name="id" value="2bdcee57-1f35-41a6-902d-07e37bd8107a" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*LogDetailMapper.*" />
-                      <option name="id" value="e5330596-0383-4378-b6b2-51188a7eda2d" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-5046397" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="b57ec969-f169-4b4d-a723-bc412061efd0" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -186,6 +231,7 @@
             </list>
           </option>
           <option name="id" value="1498016372044" />
+          <option name="maxLengthToMatch" value="160" />
         </Profile>
       </list>
     </option>
