@@ -11,53 +11,38 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*\.LogDetailMapper.*" />
-                      <option name="id" value="e5330596-0383-4378-b6b2-51188a7eda2d" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-5046397" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="b57ec969-f169-4b4d-a723-bc412061efd0" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*\.BatchScheduler.*" />
-                      <option name="id" value="fb3ea434-bc54-499c-9927-3efc121b535a" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-5046397" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*\.BatchWorker.*" />
-                      <option name="id" value="f41f6b00-9f67-4e82-a129-b02f4c453c95" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-5046397" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*\.BatchApiRequestJob.*" />
+                      <option name="grepExpression" value=".*BatchWorker.*" />
                       <option name="id" value="b0cc5073-4611-4886-bbb2-3fd884a850d4" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*scheduler\.BatchScheduler.*" />
+                      <option name="id" value="fb3efe5e-b9f8-4462-9ae9-4875da2ec7b8" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*BatchApiRequestJob.*" />
+                      <option name="id" value="08e37b6a-66c0-49c7-a6f3-139b4c7410bd" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
