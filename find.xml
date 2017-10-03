@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
-      <mask>*.yl</mask>
-      <mask>*.l</mask>
       <mask>.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.cs==</mask>
@@ -26,15 +24,17 @@
       <mask>*.ya</mask>
       <mask>*.y</mask>
       <mask>*.xml</mask>
-      <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>*.cs*</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.k</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
