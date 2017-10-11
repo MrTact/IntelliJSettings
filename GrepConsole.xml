@@ -119,6 +119,21 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*Retrofit-Idle.*" />
+                      <option name="id" value="e8fa977c-0579-4c96-a91f-714824f40425" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2bdcee57-1f35-41a6-902d-07e37bd8107a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="new" />
