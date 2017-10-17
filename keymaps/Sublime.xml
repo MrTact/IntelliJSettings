@@ -193,6 +193,9 @@
   </action>
   <action id="ReplaceInPath" />
   <action id="Rerun" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta p" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="meta d" />
