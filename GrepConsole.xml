@@ -4,14 +4,147 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value=".*BatchWorker.*" />
+                      <option name="id" value="b0cc5073-4611-4886-bbb2-3fd884a850d4" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*scheduler\.BatchScheduler.*" />
+                      <option name="id" value="fb3efe5e-b9f8-4462-9ae9-4875da2ec7b8" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*BatchApiRequestJob.*" />
+                      <option name="id" value="08e37b6a-66c0-49c7-a6f3-139b4c7410bd" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5046397" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f892148a-19ce-4628-bc88-a64d69c7007a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*experiments.*" />
+                      <option name="id" value="92958f1c-10be-428a-8659-2fc460926e4e" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-51230" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="54ec50c6-a8bd-4aae-8f63-939775149ed9" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*datadog.*" />
+                      <option name="id" value="26ebd8c4-b008-4dc8-ad5e-bdb37387785a" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2bdcee57-1f35-41a6-902d-07e37bd8107a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*RetrofitClientProvider.*" />
+                      <option name="id" value="7a8b7392-2db4-4ce5-9128-10fcd850feff" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2bdcee57-1f35-41a6-902d-07e37bd8107a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*HashingHelper.*" />
+                      <option name="id" value="42e4aa8a-a76f-4485-b31c-f73cb5bc7c15" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2bdcee57-1f35-41a6-902d-07e37bd8107a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*Retrofit-Idle.*" />
+                      <option name="id" value="e8fa977c-0579-4c96-a91f-714824f40425" />
+                      <option name="inputFilter" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2bdcee57-1f35-41a6-902d-07e37bd8107a" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="new" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="enabled" value="true" />
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
-                      <option name="id" value="af5037fb-ddda-4ffb-8b39-056a1b1ec37a" />
+                      <option name="id" value="d5b61763-a7b5-4e97-8f4f-af8dc66001c5" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -27,13 +160,13 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="b2f466d8-b2e3-4776-932f-8295089c069a" />
+                          <option name="id" value="61d05af7-314a-48e2-a538-1a5e31a95185" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*ERROR.*" />
-                      <option name="id" value="25e8e930-7248-496c-8c88-9b4417b88092" />
+                      <option name="id" value="e5e5b6c7-2c69-4d3e-8f0f-d83e605c288f" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -42,13 +175,13 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="c635924d-e674-4faa-a8f2-930f94396166" />
+                          <option name="id" value="53f12453-52a2-42a5-9797-317506e9b461" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
-                      <option name="id" value="a183a1e5-5b5b-4c96-ad94-8d2f1b9488ce" />
+                      <option name="id" value="0d774d9e-1f34-4808-9211-292248bfb647" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -57,13 +190,13 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="113b951a-00d8-4bb7-b312-c53bc4e61ab8" />
+                          <option name="id" value="b7e528af-f7ea-4807-85f8-f43718ff5ae5" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
-                      <option name="id" value="ca5630af-1656-4596-82b1-0075dd0c62c1" />
+                      <option name="id" value="c4c8d019-b01d-48c8-a734-bb66f54a79c0" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -72,13 +205,13 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="72f2b6db-388f-480d-b9c5-25ac8053f133" />
+                          <option name="id" value="795c0e56-da75-4ca3-b45d-085f55388126" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*TRACE.*" />
-                      <option name="id" value="31150200-16a7-4907-bb72-0d30b0fdd8f9" />
+                      <option name="id" value="7016bfc2-de1f-4f87-a485-768fa2c32c01" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -87,7 +220,7 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="88c915e2-0dd3-4dd9-b7b1-3eb787ff685f" />
+                          <option name="id" value="e6cd2539-917a-4acc-bd56-c6f8dce43c16" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -97,8 +230,8 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1497773956721" />
-          <option name="name" value="default" />
+          <option name="id" value="1498016372044" />
+          <option name="maxLengthToMatch" value="160" />
         </Profile>
       </list>
     </option>
