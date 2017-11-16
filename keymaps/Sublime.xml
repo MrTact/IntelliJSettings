@@ -6,7 +6,6 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta b" />
   </action>
-  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CheckStyleProjectFilesAction">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
   </action>
@@ -84,6 +83,7 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorSplitLine">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
@@ -151,10 +151,6 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
-  <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="shift meta f12" />
-    <keyboard-shortcut first-keystroke="ctrl meta h" />
-  </action>
   <action id="ImplementMethods" />
   <action id="IncrementalSearch">
     <keyboard-shortcut first-keystroke="meta i" />
@@ -164,9 +160,6 @@
   <action id="JumpToLastWindow" />
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="meta b" />
-  </action>
-  <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -187,15 +180,15 @@
   <action id="ParameterInfo" />
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="Refresh" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
   <action id="ReplaceInPath" />
   <action id="Rerun" />
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta p" />
-  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="meta d" />
@@ -204,10 +197,6 @@
   <action id="ShowBookmarks" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
-  </action>
-  <action id="Stop">
-    <keyboard-shortcut first-keystroke="meta f2" />
-    <keyboard-shortcut first-keystroke="a" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -223,38 +212,6 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
-  <action id="TabShiftActions.MoveFocusDown">
-    <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="down" />
-  </action>
-  <action id="TabShiftActions.MoveFocusLeft">
-    <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="left" />
-  </action>
-  <action id="TabShiftActions.MoveFocusRight">
-    <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="right" />
-  </action>
-  <action id="TabShiftActions.MoveFocusUp">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="up" />
-  </action>
-  <action id="TabShiftActions.ShiftDown">
-    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta down" />
-  </action>
-  <action id="TabShiftActions.ShiftLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta left" />
-  </action>
-  <action id="TabShiftActions.ShiftRight">
-    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta right" />
-  </action>
-  <action id="TabShiftActions.ShiftUp">
-    <keyboard-shortcut first-keystroke="ctrl alt p" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta up" />
   </action>
   <action id="TestData.Navigate" />
   <action id="ToggleBookmark" />
