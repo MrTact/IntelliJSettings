@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta b" />
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="ctrl meta alt equals" />
+  </action>
   <action id="CheckStyleProjectFilesAction">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
   </action>
