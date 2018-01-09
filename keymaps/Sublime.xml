@@ -154,10 +154,12 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="GotoTest" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="ImplementMethods" />
   <action id="IncrementalSearch">
     <keyboard-shortcut first-keystroke="meta i" />
@@ -191,6 +193,9 @@
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
   <action id="Refresh" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
