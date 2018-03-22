@@ -4,7 +4,7 @@
     <property name="created">2017-04-28T10:14:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2018-02-14T10:31:17</property>
+    <property name="modified">2018-03-22T16:00:56</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -44,6 +44,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="99ffff" />
+      </value>
+    </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -62,13 +68,6 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="80" />
-      </value>
-    </option>
-    <option name="METHOD_DECLARATION_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="99ffff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
