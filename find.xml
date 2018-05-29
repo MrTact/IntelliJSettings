@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.raml</mask>
     <mask>*.less</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
