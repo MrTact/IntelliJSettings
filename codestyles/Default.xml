@@ -17,6 +17,9 @@
   <Python>
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
   </Python>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="Groovy">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="WRAP_LONG_LINES" value="true" />
@@ -30,6 +33,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
