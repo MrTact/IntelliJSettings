@@ -11,6 +11,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*BatchWorker.*" />
                       <option name="id" value="b0cc5073-4611-4886-bbb2-3fd884a850d4" />
                       <option name="style">
@@ -26,6 +27,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*scheduler\.BatchScheduler.*" />
                       <option name="id" value="fb3efe5e-b9f8-4462-9ae9-4875da2ec7b8" />
                       <option name="style">
@@ -41,6 +43,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*BatchApiRequestJob.*" />
                       <option name="id" value="08e37b6a-66c0-49c7-a6f3-139b4c7410bd" />
                       <option name="style">
@@ -120,6 +123,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*Retrofit-Idle.*" />
                       <option name="id" value="e8fa977c-0579-4c96-a91f-714824f40425" />
                       <option name="inputFilter" value="true" />
@@ -139,10 +143,10 @@
                 <option name="name" value="new" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="d5b61763-a7b5-4e97-8f4f-af8dc66001c5" />
                       <option name="style">
@@ -165,6 +169,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="e5e5b6c7-2c69-4d3e-8f0f-d83e605c288f" />
                       <option name="style">
@@ -180,6 +185,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="0d774d9e-1f34-4808-9211-292248bfb647" />
                       <option name="style">
@@ -195,6 +201,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="c4c8d019-b01d-48c8-a734-bb66f54a79c0" />
                       <option name="style">
@@ -210,6 +217,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="7016bfc2-de1f-4f87-a485-768fa2c32c01" />
                       <option name="style">
@@ -227,6 +235,33 @@
                   </list>
                 </option>
                 <option name="name" value="default" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="enabled" value="true" />
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="foo" />
+                      <option name="id" value="1e87391b-da4b-4584-a6ac-db13b313aa4f" />
+                      <option name="inputFilter" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="1ce42d1b-8127-4587-9360-4f8e4c1dada3" />
+                        </GrepStyle>
+                      </option>
+                      <option name="unlessGrepExpression" value=".*rabbitmq-event-consumer.*" />
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="rabbit only" />
               </GrepExpressionGroup>
             </list>
           </option>
