@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jenkinsfile" type="Groovy" />
+      <mapping ext="dead" type="JavaScript" />
       <mapping ext="marketometadataservice" type="Kotlin" />
       <mapping pattern="0001-use-adr-process.md" type="Markdown" />
       <mapping ext="scssc" type="Sass" />
