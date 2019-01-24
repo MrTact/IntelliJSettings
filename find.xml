@@ -16,10 +16,10 @@
     <mask>*.gradle</mask>
     <mask>.gradle</mask>
     <mask>.kt</mask>
-    <mask>*.js</mask>
     <mask>*.yaml</mask>
-    <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
