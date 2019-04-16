@@ -7,7 +7,6 @@
       <mapping ext="marketometadataservice" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="0001-use-adr-process.md" type="Markdown" />
-      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="Sass" />
     </extensionMap>
   </component>
