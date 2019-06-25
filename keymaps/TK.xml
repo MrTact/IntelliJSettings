@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="meta alt down" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="alt down" />
