@@ -33,4 +33,36 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="ShowSearchHistory" />
+  <action id="TabShiftActions.MoveFocusDown">
+    <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="down" />
+  </action>
+  <action id="TabShiftActions.MoveFocusLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="left" />
+  </action>
+  <action id="TabShiftActions.MoveFocusRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="right" />
+  </action>
+  <action id="TabShiftActions.MoveFocusUp">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="up" />
+  </action>
+  <action id="TabShiftActions.ShiftDown">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta down" />
+  </action>
+  <action id="TabShiftActions.ShiftLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta left" />
+  </action>
+  <action id="TabShiftActions.ShiftRight">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta right" />
+  </action>
+  <action id="TabShiftActions.ShiftUp">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta up" />
+  </action>
 </keymap>
