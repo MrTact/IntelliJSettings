@@ -35,6 +35,8 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
   <action id="ShowSearchHistory" />
   <action id="TabShiftActions.MoveFocusDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
