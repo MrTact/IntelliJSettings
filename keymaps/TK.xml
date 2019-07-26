@@ -14,6 +14,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl m" />
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="EditorTextEnd" />
+  <action id="EditorTextStart" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
@@ -22,6 +24,7 @@
     <keyboard-shortcut first-keystroke="meta alt down" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="List-selectFirstRow" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
@@ -35,8 +38,23 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="NavBar-selectHome" />
   <action id="Refresh" />
   <action id="Rerun" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
   <action id="ShowSearchHistory" />
   <action id="TabShiftActions.MoveFocusDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
@@ -70,6 +88,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta up" />
   </action>
+  <action id="Table-selectFirstRow" />
+  <action id="Table-selectLastRow" />
+  <action id="Tree-selectFirst" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
