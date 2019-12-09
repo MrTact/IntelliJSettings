@@ -22,6 +22,12 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="meta alt down" />
@@ -50,6 +56,10 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="NavBar-selectHome" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
   <action id="Refresh" />
   <action id="Rerun" />
   <action id="SearchEverywhere.NavigateToNextGroup">
