@@ -11,9 +11,9 @@
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.feature</mask>
-    <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.md</mask>
+    <mask>*.json</mask>
     <mask>*.js</mask>
   </component>
 </application>
