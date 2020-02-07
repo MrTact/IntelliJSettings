@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,10 +11,10 @@
     <mask>pom.xml</mask>
     <mask>*.feature</mask>
     <mask>*.md</mask>
-    <mask>*.js</mask>
     <mask>build.gradle</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*.js</mask>
   </component>
 </application>
