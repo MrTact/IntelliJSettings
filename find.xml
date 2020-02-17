@@ -17,6 +17,7 @@
     <mask>*.podspec</mask>
     <mask>*.c</mask>
     <mask>*.json</mask>
+    <mask>en*.json</mask>
     <mask>*.js</mask>
   </component>
 </application>
