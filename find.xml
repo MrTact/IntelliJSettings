@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="en*.json" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,8 +17,8 @@
     <mask>*.podspec</mask>
     <mask>*.c</mask>
     <mask>*.json</mask>
-    <mask>en*.json</mask>
     <mask>*.m</mask>
     <mask>*.js</mask>
+    <mask>en*.json</mask>
   </component>
 </application>
