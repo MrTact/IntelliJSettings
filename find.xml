@@ -16,5 +16,6 @@
     <mask>*.tsx</mask>
     <mask>*.ts*</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
