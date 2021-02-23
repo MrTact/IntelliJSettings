@@ -1515,9 +1515,8 @@
         <entry key="*.rs">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="org.rust.lang" />
+              <option name="myPluginName" value="Rust" />
             </plugin>
           </value>
         </entry>
@@ -1731,6 +1730,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.toml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
@@ -2199,6 +2206,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="Dockerfile">
           <value>
             <plugin>
@@ -2249,6 +2264,22 @@
             <plugin>
               <option name="myPluginId" value="name.kropp.intellij.makefile" />
               <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Gopkg.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Pipfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
@@ -2575,6 +2606,11 @@
                       <FeaturePluginData displayName="CTest Application" pluginName="CLion CTest" pluginId="org.jetbrains.plugins.clion.ctest" />
                     </value>
                   </entry>
+                  <entry key="CargoCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -2628,6 +2664,11 @@
                   <entry key="GoTestRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Go Test" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
+                    </value>
+                  </entry>
+                  <entry key="GradleAppRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Gradle Native Application" pluginName="com.intellij.clion-gradle" pluginId="com.intellij.clion-gradle" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -2797,7 +2838,7 @@
                   </entry>
                   <entry key="PythonConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="QuarkusRunConfigurationType">
@@ -2842,12 +2883,17 @@
                   </entry>
                   <entry key="Tox">
                     <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="WasmPackCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="wasm-pack" pluginName="Rust" pluginId="org.rust.lang" />
                     </value>
                   </entry>
                   <entry key="XSLT">
@@ -2902,7 +2948,7 @@
                   </entry>
                   <entry key="tests">
                     <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                 </map>
@@ -2917,7 +2963,7 @@
                 <map>
                   <entry key="Python">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Pythonid" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="Spring">
@@ -2942,7 +2988,7 @@
                   </entry>
                   <entry key="buildout-python">
                     <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="django">
