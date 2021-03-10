@@ -29,6 +29,9 @@
     <option name="INSERT_VALUES_EL_LINE" value="101" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
   </MySQLCodeStyleSettings>
+  <SqlCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
