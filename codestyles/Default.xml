@@ -31,6 +31,8 @@
   </MySQLCodeStyleSettings>
   <SqlCodeStyleSettings version="5">
     <option name="KEYWORD_CASE" value="2" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
