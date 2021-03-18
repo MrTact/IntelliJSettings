@@ -6,6 +6,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="5005357" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="0vzufa" type="PLAIN_TEXT" />
       <mapping ext="jsbundle" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
