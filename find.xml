@@ -1,16 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.json</mask>
     <mask>Makefile</mask>
-    <mask>*.py</mask>
     <mask>*.tsx</mask>
     <mask>*.feature</mask>
     <mask>*.js</mask>
@@ -24,5 +22,6 @@
     <mask>*.go</mask>
     <mask>*.sh</mask>
     <mask>*.java</mask>
+    <mask>*.py</mask>
   </component>
 </application>
