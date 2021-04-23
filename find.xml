@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -12,7 +13,6 @@
     <mask>Makefile</mask>
     <mask>*.tsx</mask>
     <mask>*.feature</mask>
-    <mask>*.js</mask>
     <mask>*.ts*</mask>
     <mask>*.m</mask>
     <mask>*.ts</mask>
@@ -25,5 +25,6 @@
     <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>*.md</mask>
+    <mask>*.js</mask>
   </component>
 </application>
