@@ -31,6 +31,7 @@
   </MySQLCodeStyleSettings>
   <Python>
     <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
   </Python>
   <SqlCodeStyleSettings version="5">
     <option name="KEYWORD_CASE" value="2" />
