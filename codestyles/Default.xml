@@ -22,18 +22,14 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
-  <MySQLCodeStyleSettings version="5">
+  <MySQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="INSERT_CONTENT" value="4" />
     <option name="INSERT_CLOSING" value="4" />
     <option name="INSERT_VALUES_EL_LINE" value="101" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
   </MySQLCodeStyleSettings>
-  <Python>
-    <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
-    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
-  </Python>
-  <SqlCodeStyleSettings version="5">
+  <SqlCodeStyleSettings version="6">
     <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="QUERY_IN_ONE_STRING" value="1" />
