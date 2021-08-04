@@ -9,5 +9,6 @@
     <mask>*.go</mask>
     <mask>*.java</mask>
     <mask>*.py</mask>
+    <mask>*.json</mask>
   </component>
 </application>
