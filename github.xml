@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="tkeating" id="d4846d48-2b4b-4e41-b4df-a4c107b0371f">
+      <server useHttp="false" host="github-ca.corp.zynga.com" />
+    </account>
+  </component>
+</application>
