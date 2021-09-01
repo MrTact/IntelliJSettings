@@ -5,12 +5,12 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>Makefile</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.feature</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>*.go</mask>
+    <mask>*.js</mask>
   </component>
 </application>
