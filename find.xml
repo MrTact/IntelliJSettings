@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>Makefile</mask>
     <mask>*.php</mask>
     <mask>*.java</mask>
@@ -12,5 +13,6 @@
     <mask>*.py</mask>
     <mask>*.go</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
