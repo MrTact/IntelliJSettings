@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>Makefile</mask>
-    <mask>*.php</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.feature</mask>
@@ -13,5 +13,6 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.php</mask>
   </component>
 </application>
