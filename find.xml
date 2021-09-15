@@ -9,9 +9,9 @@
     <mask>*.json</mask>
     <mask>*.feature</mask>
     <mask>*.md</mask>
-    <mask>*.py</mask>
     <mask>*.go</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.py</mask>
   </component>
 </application>
