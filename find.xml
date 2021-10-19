@@ -1,21 +1,19 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.go" />
     <mask>Makefile</mask>
     <mask>*.feature</mask>
     <mask>*.md</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.tf</mask>
-    <mask>*.go</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>*.java</mask>
+    <mask>*.go</mask>
   </component>
 </application>
