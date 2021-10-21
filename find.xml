@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.go" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>Makefile</mask>
     <mask>*.feature</mask>
     <mask>*.md</mask>
@@ -12,8 +12,8 @@
     <mask>*.tf</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*.java</mask>
     <mask>*.go</mask>
+    <mask>*.php</mask>
   </component>
 </application>
