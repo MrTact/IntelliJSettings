@@ -3,16 +3,17 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>Makefile</mask>
     <mask>*.feature</mask>
     <mask>*.md</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.tf</mask>
-    <mask>*.py</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.go</mask>
     <mask>*.php</mask>
+    <mask>*.py</mask>
   </component>
 </application>
