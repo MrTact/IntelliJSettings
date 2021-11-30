@@ -4,7 +4,7 @@
     <property name="created">2021-10-25T14:21:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-10-25T17:55:33</property>
+    <property name="modified">2021-11-30T15:34:08</property>
     <property name="originalScheme">Blackbird</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -599,9 +599,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="fff423" />
         <option name="BACKGROUND" value="666699" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="fff423" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -609,13 +609,11 @@
         <option name="FOREGROUND" value="8995ac" />
       </value>
     </option>
-    <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="97ecc7" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
     <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
