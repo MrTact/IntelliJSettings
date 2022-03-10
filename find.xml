@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.ts?" />
     <mask>*.feature</mask>
     <mask>*.md</mask>
     <mask>*.ts</mask>
@@ -20,7 +20,7 @@
     <mask>*.py</mask>
     <mask>Makefile</mask>
     <mask>*.ts*</mask>
-    <mask>*.ts?</mask>
     <mask>*.java</mask>
+    <mask>*.ts?</mask>
   </component>
 </application>
