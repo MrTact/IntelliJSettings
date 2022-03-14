@@ -8,7 +8,6 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="ctmpl" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <removed_mapping ext="psd" approved="true" type="Image" />
