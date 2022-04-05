@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Component tests" />
     <option name="defaultScopeName" value="Component tests" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Component tests" />
     <mask>*.feature</mask>
     <mask>*.md</mask>
