@@ -13,9 +13,6 @@
       <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
