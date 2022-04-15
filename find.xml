@@ -5,9 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="customScope" value="Component tests" />
-    <option name="defaultScopeName" value="Component tests" />
-    <option name="SEARCH_SCOPE" value="Component tests" />
     <mask>*.feature</mask>
     <mask>*.md</mask>
     <mask>*.ts</mask>
