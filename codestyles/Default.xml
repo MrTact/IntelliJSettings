@@ -83,9 +83,6 @@
   <codeStyleSettings language="Rust">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="false" />
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Shell Script">
     <indentOptions>
