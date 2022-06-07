@@ -7,6 +7,6 @@
   <component name="UISettings">
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="18" />
     <option name="MAX_LOOKUP_WIDTH2" value="1058" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
   </component>
 </application>
