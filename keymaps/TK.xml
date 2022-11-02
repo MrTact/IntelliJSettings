@@ -8,9 +8,17 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="BuildProject">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="CIDR.Debugger.ShowInMemoryView" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Docker.RemoteServers.StartComposeService" />
+  <action id="Docker.RemoteServers.StartContainer" />
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
@@ -23,6 +31,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl m" />
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="EditorStartNewLine" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
@@ -83,6 +92,7 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="ShowSearchHistory" />
+  <action id="SplitChooser.Duplicate" />
   <action id="TabShiftActions.MoveFocusDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="down" />
@@ -117,10 +127,12 @@
   </action>
   <action id="Table-selectFirstRow" />
   <action id="Table-selectLastRow" />
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="Tree-selectFirst" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="ViewSource" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
